@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: catalogue-service
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/selmag
+    username: postgresql
+    password: postgresql
